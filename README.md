@@ -1,4 +1,4 @@
-# Tetris
+# Tetris Game in C++
 
 ## Game Controls
 
